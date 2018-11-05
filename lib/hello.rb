@@ -12,5 +12,3 @@ hello_t(["Tim", "Tom", "Jim"])
 if name.startwith? ("T")
   puts "Hi, #{name}"
 end
-end
-
